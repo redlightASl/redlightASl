@@ -13,8 +13,8 @@
 * 🤖 机器视觉: OpenCV, PyTorch, 魔改YOLO 
 
 ![C/C++](https://img.shields.io/badge/-C/C++-D6604A?style=plastic&logo=c)
-![VSCode]([https://img.shields.io/badge/-VSCode-blue](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code))
-![STM32]([https://img.shields.io/badge/-STM32-60%2C%20180%2C%20230](https://img.shields.io/badge/-STM32-03234B?style=for-the-badge&logo=STMicroelectronics))
-![AD]([https://img.shields.io/badge/-Altium%20Designer-black](https://img.shields.io/badge/-Altium%20Designer-black?style=for-the-badge&logo=Altium%20Designer)) 
+![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+![STM32](https://img.shields.io/badge/-STM32-03234B?style=for-the-badge&logo=STMicroelectronics)
+![AD](https://img.shields.io/badge/-Altium%20Designer-black?style=for-the-badge&logo=Altium%20Designer)
 ![Xilinx](https://img.shields.io/badge/-Xilinx-E01F27?style=for-the-badge&logo=Xilinx) 
-![PyTorch]([https://img.shields.io/badge/-PyTorch-orange](https://img.shields.io/badge/-PyTorch-EE4C2C?style=plastic&logo=PyTorch))
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=plastic&logo=PyTorch)

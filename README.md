@@ -13,7 +13,7 @@
 ![Embedded Linux](https://img.shields.io/badge/-Embedded%20Linux-white?style=flat-square&logo=Linux)
 ![OpenWrt](https://img.shields.io/badge/-OpenWrt-white?style=flat-square&logo=OpenWrt)
 * ⚡ 板级电路：![电源](https://img.shields.io/badge/-PowerSupply-white?style=flat-square)
-![接口](https://img.shields.io/badge/-Interfaces-white?style=flat-square&logo=IEEE)
+![接口](https://img.shields.io/badge/-Interfaces-00629B?style=flat-square&logo=IEEE)
 * 🚀 片上硬件：
 ![RISC-V](https://img.shields.io/badge/-RV32-F6B21A?style=flat-square)
 ![ISP](https://img.shields.io/badge/-ISP-76B900?style=flat-square)
@@ -27,7 +27,7 @@
 * ![MATLAB](https://img.shields.io/badge/-MATLAB-blue?style=flat-square&logo=Matrix)
 ![AD](https://img.shields.io/badge/-Altium%20Designer-24292E?style=flat-square&logo=Altium%20Designer)
 ![KiCAD](https://img.shields.io/badge/-KiCad-6C0101?style=flat-square&logo=KiCad)
-![Allegro](https://img.shields.io/badge/-Allegro-white?style=flat-square&logo=Allegro)
+![Allegro](https://img.shields.io/badge/-Allegro-000000?style=flat-square&logo=Allegro)
 ![Yosys/Vivado](https://img.shields.io/badge/-Yosys/Vivado-pink?style=flat-square)
 * ![PyTorch](https://img.shields.io/badge/-PyTorch-grey?style=flat-square&logo=PyTorch)
 * ![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=STMicroelectronics) 

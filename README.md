@@ -12,11 +12,11 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-white?style=flat-square&logo=Arduino)
 ![Embedded Linux](https://img.shields.io/badge/-Embedded%20Linux-white?logo=Linux)
 ![OpenWrt](https://img.shields.io/badge/-OpenWrt-white?style=flat-square&logo=OpenWrt)
-* ⚡ 板级电路：![电源](https://img.shields.io/badge/-DCDC%20-white?style=flat-square&logo=OpenWrt)
+* ⚡ 板级电路：![电源](https://img.shields.io/badge/-DCDC-white?style=flat-square&logo=OpenWrt)
 ![接口](https://img.shields.io/badge/-Interfaces-white?style=flat-square)
 * 🚀 片上硬件：![Yosys/Vivado](https://img.shields.io/badge/-Yosys/Vivado-pink)
-![RISC-V](https://img.shields.io/badge/-RV32-F6B21A)
-![ISP](https://img.shields.io/badge/-ISP-76B900)
+![RISC-V](https://img.shields.io/badge/-RV32-F6B21A?style=flat-square)
+![ISP](https://img.shields.io/badge/-ISP-76B900?style=flat-square)
 * 🤖 机器视觉：![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV)
 ![YOLO](https://img.shields.io/badge/-YOLO-white?style=flat-square)
 
@@ -32,8 +32,8 @@
 * ![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=STMicroelectronics) 
 ![ESP32](https://img.shields.io/badge/-ESP32-282423?style=flat-square&logo=Espressif)
 * ![Xilinx](https://img.shields.io/badge/-Xilinx-E01F27?style=flat-square&logo=Xilinx)
-![Pango](https://img.shields.io/badge/-PangoMicro-930A83)
-![Gowin](https://img.shields.io/badge/-GowinSemi-005183)
+![Pango](https://img.shields.io/badge/-PangoMicro-930A83?style=flat-square)
+![Gowin](https://img.shields.io/badge/-GowinSemi-005183?style=flat-square)
 
 
 

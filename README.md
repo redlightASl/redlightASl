@@ -15,7 +15,9 @@
 ![C/C++](https://img.shields.io/badge/-C/C++-D6604A?style=flat-square&logo=c)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=STMicroelectronics)
+![ESP32](https://img.shields.io/badge/-ESP32-282423?style=flat-square&logo=Espressif)
 ![AD](https://img.shields.io/badge/-Altium%20Designer-black?style=flat-square&logo=Altium%20Designer)
 ![Xilinx](https://img.shields.io/badge/-Xilinx-E01F27?style=flat-square&logo=Xilinx)
-![PyTorch](https://img.shields.io/badge/-PyTorch-white?style=flat-square&logo=PyTorch)
+![PyTorch](https://img.shields.io/badge/-PyTorch-grey?style=flat-square&logo=PyTorch)
+
 

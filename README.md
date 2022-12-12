@@ -10,11 +10,10 @@
 ![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=Python)
 * 🗺 嵌入式：![ARM CM4/7 based MCU](https://img.shields.io/badge/-MCU-white?style=flat-square&logo=Arm)
 ![Arduino](https://img.shields.io/badge/-Arduino-white?style=flat-square&logo=Arduino)
-![Petalinux](https://img.shields.io/badge/-Petalinux-FFEEBB?logo=Linux)
+![Embedded Linux](https://img.shields.io/badge/-Embedded%20Linux-white?logo=Linux)
 ![OpenWrt](https://img.shields.io/badge/-OpenWrt-white?style=flat-square&logo=OpenWrt)
-* ⚡ 板级电路：![MATLAB](https://img.shields.io/badge/-MATLAB-blue?logo=Matrix)
-![AD](https://img.shields.io/badge/-Altium%20Designer-24292E?style=flat-square&logo=Altium%20Designer)
-![KiCAD](https://img.shields.io/badge/-KiCad-6C0101?style=flat-square&logo=KiCad)
+* ⚡ 板级电路：![电源](https://img.shields.io/badge/-DCDC%20-white?style=flat-square&logo=OpenWrt)
+![接口](https://img.shields.io/badge/-Interfaces-white?style=flat-square)
 * 🚀 片上硬件：![Yosys/Vivado](https://img.shields.io/badge/-Yosys/Vivado-pink)
 ![RISC-V](https://img.shields.io/badge/-RV32-F6B21A)
 ![ISP](https://img.shields.io/badge/-ISP-76B900)
@@ -25,12 +24,17 @@
 
 * ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code) 
 ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=Vim)
+* ![MATLAB](https://img.shields.io/badge/-MATLAB-blue?logo=Matrix)
+![AD](https://img.shields.io/badge/-Altium%20Designer-24292E?style=flat-square&logo=Altium%20Designer)
+![KiCAD](https://img.shields.io/badge/-KiCad-6C0101?style=flat-square&logo=KiCad)
+![Allegro](https://img.shields.io/badge/-Allegro-white?style=flat-square&logo=Allegro)
+* ![PyTorch](https://img.shields.io/badge/-PyTorch-grey?style=flat-square&logo=PyTorch)
 * ![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=STMicroelectronics) 
 ![ESP32](https://img.shields.io/badge/-ESP32-282423?style=flat-square&logo=Espressif)
 * ![Xilinx](https://img.shields.io/badge/-Xilinx-E01F27?style=flat-square&logo=Xilinx)
 ![Pango](https://img.shields.io/badge/-PangoMicro-930A83)
 ![Gowin](https://img.shields.io/badge/-GowinSemi-005183)
-* ![PyTorch](https://img.shields.io/badge/-PyTorch-grey?style=flat-square&logo=PyTorch)
+
 
 
 

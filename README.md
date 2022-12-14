@@ -1,8 +1,12 @@
 ### 红光ASl的Repo 🥺
 
+RedlightASl's Repo
+
 实际上后面的ASl才是名字，不过红光比较好记所以网名都叫这个
 
 微电子专业在读的硬件人，擅长氵群、摸鱼和吃饭
+
+Major in "Integrated Circuits and Integrated Systems"
 
 **技术栈 | Tech Stack**
 * ✅ 常用语言：![C/C++](https://img.shields.io/badge/-C/C++-white?style=flat-square&logo=c) 

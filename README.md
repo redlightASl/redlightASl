@@ -1,6 +1,6 @@
 ### 红光ASl的Repo 🥺
 
-RedlightASl's Repo
+RedlightASl's Repo, alias "redlight"
 
 实际上后面的ASl才是名字，不过红光比较好记所以网名都叫这个
 

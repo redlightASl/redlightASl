@@ -4,9 +4,11 @@ RedlightASl's Repo, alias "redlight"
 
 实际上后面的ASl才是名字，不过红光比较好记所以网名都叫这个
 
+Real name is "ASl"...
+
 微电子专业在读的硬件人，擅长氵群、摸鱼和吃饭
 
-Major in "Integrated Circuits and Integrated Systems"
+Major in "Integrated Circuits and Integrated Systems", expert in playing and eating
 
 **技术栈 | Tech Stack**
 * ✅ 常用语言：![C/C++](https://img.shields.io/badge/-C/C++-white?style=flat-square&logo=c) 

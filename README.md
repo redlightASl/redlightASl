@@ -11,19 +11,18 @@ Real name is "ASl"...
 Major in "Integrated Circuits and Integrated Systems", expert in playing and eating
 
 **技术栈 | Tech Stack**
-* ✅ 常用语言：![C/C++](https://img.shields.io/badge/-C/C++-white?style=flat-square&logo=c) 
+* ✅ Languages: ![C/C++](https://img.shields.io/badge/-C/C++-white?style=flat-square&logo=c) 
 ![Verilog/SystemVerilog](https://img.shields.io/badge/-Verilog/SystemVerilog-white?style=flat-square&logo=V)
 ![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=Python)
-* 🗺 嵌入式：![ARM CM4/7 based MCU](https://img.shields.io/badge/-MCU-white?style=flat-square&logo=Arm)
+* 🗺 Embedded: ![ARM MCU](https://img.shields.io/badge/-MCU-white?style=flat-square&logo=Arm)
 ![Arduino](https://img.shields.io/badge/-Arduino-white?style=flat-square&logo=Arduino)
 ![Embedded Linux](https://img.shields.io/badge/-Embedded%20Linux-white?style=flat-square&logo=Linux)
-![OpenWrt](https://img.shields.io/badge/-OpenWrt-white?style=flat-square&logo=OpenWrt)
-* ⚡ 板级电路：![电源](https://img.shields.io/badge/-PowerSupply-white?style=flat-square)
+* ⚡ Hardware: ![电源](https://img.shields.io/badge/-PowerSupply-white?style=flat-square)
 ![接口](https://img.shields.io/badge/-Interfaces-00629B?style=flat-square&logo=IEEE)
-* 🚀 片上硬件：
+* 🚀 Digital Logic: 
 ![RISC-V](https://img.shields.io/badge/-RV32-F6B21A?style=flat-square)
 ![ISP](https://img.shields.io/badge/-ISP-76B900?style=flat-square)
-* 🤖 机器视觉：![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV)
+* 🤖 Computer Vision: ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV)
 ![YOLO](https://img.shields.io/badge/-YOLO-white?style=flat-square)
 
 **常用工具框架 | Tools&FrameWork**
@@ -39,7 +38,6 @@ Major in "Integrated Circuits and Integrated Systems", expert in playing and eat
 * ![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=STMicroelectronics) 
 ![ESP32](https://img.shields.io/badge/-ESP32-282423?style=flat-square&logo=Espressif)
 ![Xilinx](https://img.shields.io/badge/-Xilinx-E01F27?style=flat-square&logo=Xilinx)
-![Pango](https://img.shields.io/badge/-PangoMicro-930A83?style=flat-square)
 ![Gowin](https://img.shields.io/badge/-GowinSemi-005183?style=flat-square)
 
 

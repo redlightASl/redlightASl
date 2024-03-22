@@ -22,8 +22,8 @@ Major in "Integrated Circuits and Integrated Systems", expert in playing and eat
 * 🚀 Digital Logic: 
 ![RISC-V](https://img.shields.io/badge/-RV32-F6B21A?style=flat-square)
 ![ISP](https://img.shields.io/badge/-ISP-76B900?style=flat-square)
-* 🤖 Computer Vision: ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV)
-![YOLO](https://img.shields.io/badge/-YOLO-white?style=flat-square)
+* 🤖 Computer Vision: ![Classical](https://img.shields.io/badge/-Classical-5C3EE8?style=flat-square&logo=OpenCV)
+![Detection](https://img.shields.io/badge/-Detection-white?style=flat-square)
 
 **常用工具框架 | Tools&FrameWork**
 

@@ -4,11 +4,11 @@ RedlightASl's Repo, alias "redlight"
 
 实际上后面的ASl才是名字，不过红光比较好记所以网名都叫这个
 
-Real name is "ASl"...
+Real name is "ASl"... "Redlight" is more memorable so that's what the names are called
 
-微电子专业在读的硬件人，擅长氵群、摸鱼和吃饭
+微电子专业在读的硬件人(?)，擅长氵群、摸鱼和吃饭
 
-Major in "Integrated Circuits and Integrated Systems", expert in playing and eating
+Major in "Integrated Circuits and Integrated Systems", expert in chatting, playing and eating
 
 **技术栈 | Tech Stack**
 * ✅ Languages: ![C/C++](https://img.shields.io/badge/-C/C++-white?style=flat-square&logo=c) 
@@ -38,7 +38,7 @@ Major in "Integrated Circuits and Integrated Systems", expert in playing and eat
 * ![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=STMicroelectronics) 
 ![ESP32](https://img.shields.io/badge/-ESP32-282423?style=flat-square&logo=Espressif)
 ![Xilinx](https://img.shields.io/badge/-Xilinx-E01F27?style=flat-square&logo=Xilinx)
-![Gowin](https://img.shields.io/badge/-GowinSemi-005183?style=flat-square)
+![Gowin](https://img.shields.io/badge/-Gowin-005183?style=flat-square)
 
 
 

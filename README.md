@@ -11,19 +11,17 @@ Real name is "ASl"... "Redlight" is more memorable so that's what the names are 
 Major in "Integrated Circuit Engineering", expert in chatting, playing and eating
 
 **技术栈 | Tech Stack**
-* ✅ Languages: ![C/C++](https://img.shields.io/badge/-C/C++-white?style=flat-square&logo=c) 
+* ✅ Languages: ![C/C++](https://img.shields.io/badge/-C/C++-white?style=flat-square&logo=c)
 ![Verilog/SystemVerilog](https://img.shields.io/badge/-Verilog/SystemVerilog-white?style=flat-square&logo=V)
 ![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=Python)
+![CodeGenshin](https://img.shields.io/badge/Rust-black?style=flat-square&logo=Rust)
 * 🗺 Embedded: ![ARM MCU](https://img.shields.io/badge/-MCU-white?style=flat-square&logo=Arm)
-![Arduino](https://img.shields.io/badge/-Arduino-white?style=flat-square&logo=Arduino)
-![Embedded Linux](https://img.shields.io/badge/-Embedded%20Linux-white?style=flat-square&logo=Linux)
-* ⚡ Hardware: ![电源](https://img.shields.io/badge/-PowerSupply-white?style=flat-square)
-![接口](https://img.shields.io/badge/-Interfaces-00629B?style=flat-square&logo=IEEE)
-* 🚀 Digital Logic: 
-![RISC-V](https://img.shields.io/badge/-RV32-F6B21A?style=flat-square)
+![MiscLinux](https://img.shields.io/badge/-Misc%20Linux-white?style=flat-square&logo=Linux)
+* ⚡ Hardware: ![power](https://img.shields.io/badge/-PowerSupply-white?style=flat-square)
+![interface](https://img.shields.io/badge/-Interfaces-00629B?style=flat-square&logo=IEEE)
+* 🚀 Digital Logic: ![RISC-V](https://img.shields.io/badge/-RV32-F6B21A?style=flat-square&logo=RISC-V)
 ![ISP](https://img.shields.io/badge/-ISP-76B900?style=flat-square)
-* 🤖 Computer Vision: ![Classical](https://img.shields.io/badge/-Classical-5C3EE8?style=flat-square&logo=OpenCV)
-![Detection](https://img.shields.io/badge/-Detection-white?style=flat-square)
+* 🤖 Computer Vision: ![Detection](https://img.shields.io/badge/-Detection-red?style=flat-square&logo=Target)
 
 **常用工具框架 | Tools&FrameWork**
 

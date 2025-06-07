@@ -15,7 +15,7 @@ Major in "Integrated Circuit Engineering", expert in chatting, playing and eatin
 ![Verilog/SystemVerilog](https://img.shields.io/badge/-Verilog/SystemVerilog-white?style=flat-square&logo=V)
 ![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=Python)
 ![CodeGenshin](https://img.shields.io/badge/Rust-black?style=flat-square&logo=Rust)
-* 🗺 Embedded: ![ARM MCU](https://img.shields.io/badge/-MCU-white?style=flat-square&logo=Arm)
+* 🗺 Embedded: ![MCU](https://img.shields.io/badge/-MCU-white?style=flat-square&logo=arduino)
 ![MiscLinux](https://img.shields.io/badge/-Misc%20Linux-white?style=flat-square&logo=Linux)
 * ⚡ Hardware: ![power](https://img.shields.io/badge/-PowerSupply-white?style=flat-square)
 ![interface](https://img.shields.io/badge/-Interfaces-00629B?style=flat-square&logo=IEEE)
@@ -33,10 +33,10 @@ Major in "Integrated Circuit Engineering", expert in chatting, playing and eatin
 ![Allegro](https://img.shields.io/badge/-Allegro-000000?style=flat-square&logo=Allegro)
 ![Yosys/Vivado](https://img.shields.io/badge/-Yosys/Vivado-pink?style=flat-square)
 * ![PyTorch](https://img.shields.io/badge/-PyTorch-grey?style=flat-square&logo=PyTorch)
-* ![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=STMicroelectronics) 
-![ESP32](https://img.shields.io/badge/-ESP32-282423?style=flat-square&logo=Espressif)
-![Xilinx](https://img.shields.io/badge/-Xilinx-E01F27?style=flat-square&logo=Xilinx)
-![Gowin](https://img.shields.io/badge/-Gowin-005183?style=flat-square)
+* ![ARM](https://img.shields.io/badge/--03234B?style=flat-square&logo=arm) 
+![RISC-V](https://img.shields.io/badge/--03234B?style=flat-square&logo=riscv)
+![FPGA](https://img.shields.io/badge/-FPGA-E01F27?style=flat-square&logo=amd)
+![NPU](https://img.shields.io/badge/-Ascend-E01F27?style=flat-square&logo=huawei)
 
 
 
